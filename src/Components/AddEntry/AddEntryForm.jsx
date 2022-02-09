@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 
 
 
-
 const AddEntryForm = (props) => {
 
     const [weight, setWeight] = useState(0);
